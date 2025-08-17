@@ -258,8 +258,17 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-5.png",Monomax 5
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="http://103.114.203.129:8080/images/06ff63d668269dc01c82e9f436dd3811.png",AisSport 1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/aissport1.m3u8
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4685.png",Monomax 6
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax6.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4686.png",Monomax 7
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4687.png",Monomax 8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4688.png",Monomax 9
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://dookeela2.live/uploads/1753517049.png",Monomax 1_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
