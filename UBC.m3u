@@ -1,4 +1,4 @@
- #EXTM3U 
+#EXTM3U 
 
 
 
@@ -121,7 +121,7 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/CINEMAX.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truewb.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueAXN.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film HD
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
