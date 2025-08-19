@@ -54,18 +54,10 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F396384be-35dc-4d11-bf04-06c9546ec7bc.png&w=100&h=75",ONE31 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"  tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F35a35017-8473-4953-8474-5c58d805b74a.png&w=100&h=75",Mono 29
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -89,18 +81,14 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/15/799524c0-aec1-11ea-a6df-39e5f68ac856_320.png",TNN16
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png",ThaiPBS
-https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT
 igital TV" tvg-logo="https://i.imgur.com/IJh6SHb.png",NBT HD
-https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"  tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
 https://server1.streamssl.com/stream/news1_mid.m3u8
