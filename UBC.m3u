@@ -436,7 +436,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueH2.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/aisDiscover.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",Discovery Asia
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/DiscoverASIA.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/disasia.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",Food Network
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/foodnetwork.m3u8
