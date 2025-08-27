@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6000000
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:0A:24:91&stream=918984&extension=m3u8&play_token=
