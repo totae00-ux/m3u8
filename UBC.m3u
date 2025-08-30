@@ -184,9 +184,6 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4687.png",Monomax 8-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4688.png",Monomax 9-S1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
-
 #EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",Monomax 1-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
 
@@ -210,9 +207,6 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax16.m3u8
 
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4687.png",Monomax 8-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax17.m3u8
-
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4688.png",Monomax 9-S2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax18.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://dookeela2.live/uploads/1753517049.png",Monomax 1_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
