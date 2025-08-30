@@ -191,37 +191,59 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueccm.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-1.png",Monomax 1
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",Monomax 1-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-2.png",Monomax 2
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4681.png",Monomax 2-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax2.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-3.png",Monomax 3
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4682.png",Monomax 3-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax3.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-4.png",Monomax 4
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4683.png",Monomax 4-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-5.png",Monomax 5
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4684.png",Monomax 5-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4685.png",Monomax 6
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4685.png",Monomax 6-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax6.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4686.png",Monomax 7
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4686.png",Monomax 7-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4687.png",Monomax 8
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4687.png",Monomax 8-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4688.png",Monomax 9
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4688.png",Monomax 9-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4689.png",Monomax 10
+#EXTINF:-1 group-title="03-Monomax" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",Monomax 1-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
+
+#EXTINF:-1 group-title="03-Monomax" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4681.png",Monomax 2-S2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax11.m3u8
+
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4682.png",Monomax 3-S2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax12.m3u8
+
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4683.png",Monomax 4-S2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax13.m3u8
+
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4684.png",Monomax 5-S2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax14.m3u8
+
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4685.png",Monomax 6-S2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax15.m3u8
+
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4686.png",Monomax 7-S2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax16.m3u8
+
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4687.png",Monomax 8-S2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax17.m3u8
+
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4688.png",Monomax 9-S2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax18.m3u8
 
 #EXTINF:-1 group-title="03-Monomax" tvg-logo="https://dookeela2.live/uploads/1753517049.png",Monomax 1_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
