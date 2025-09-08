@@ -147,7 +147,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truemoviehit.m
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truethaifilm.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truefilmasia.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/filmasia.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie"  tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",True X-Zyte
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truexzyte.m3u8
@@ -274,25 +274,25 @@ https://cdn1.googlecdn.live/4k/monomax-5/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/true1.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/tsp1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/true2.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/tsp2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sport 3
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/true3.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/tsp3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/true5.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/tsp5.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/true7.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/tsp7.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",Bein Sport HD 1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truebein1.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,Bein Sport HD 2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truebein2.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,Bein Sport HD 3
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truebein3.m3u8
