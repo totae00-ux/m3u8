@@ -141,7 +141,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film1.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truemoviehit.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/moviehit.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thai Film
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truethaifilm.m3u8
