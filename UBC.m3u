@@ -135,10 +135,10 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueAXN.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truerockact.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film HD
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truefilm1.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film HD2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truefilm2.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truemoviehit.m3u8
