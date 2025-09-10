@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/06/23/c93cf2c0-b54f-11ea-8fac-236a281cd6c5_320.png",3HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adap9tive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 
@@ -295,7 +295,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein1.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,Bein Sport HD 3
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truebein3.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl1.m3u8
