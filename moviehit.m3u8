@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+#EXTVLCOPT:http-referrer=https://livesod365.org/
 https://e103.hellotherepadawan.org/v5/Mk38TT_Oz6qh1IiRseHW2w/1757323577/4fc64d479e5c24454adcea36c3ffa8e7/joX_jRhFTdgijfGGOdv6Sw/1757334257/live/vx-origin/sd-moviehits_720/playlist.m3u8
