@@ -93,7 +93,7 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playl
 #EXTINF:-1 tvg-id="" group-title="Digital TV"  tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
 https://server1.streamssl.com/stream/news1_mid.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://iptv36.my.to/logo/tsports.png",T Sports 7
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://i.postimg.cc/q7FXrdNm/TS.jpg",T Sports 7
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 
 
@@ -303,10 +303,10 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl4.m3u8
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",True Premier5
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl5.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://dookeela.live/uploads/1664529562.png",Spotv
+#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",Spotv
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truespotv1.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://dookeela.live/uploads/1664529575.png",Spotv2
+#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://api-soccer.thai-play.com/images/tv/0RGV8VMgXBuGIyl2wEwkYWNpHDRpfk3spotv2.png",Spotv2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truespotv2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sport 1
@@ -374,12 +374,12 @@ https://cdn1.googlecdn.live/ballsod24hrs/tpf4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/tpf5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://dookeela.live/uploads/1664529562.png",Spotv
+#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",Spotv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/spotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://dookeela.live/uploads/1664529575.png",Spotv2
+#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://api-soccer.thai-play.com/images/tv/0RGV8VMgXBuGIyl2wEwkYWNpHDRpfk3spotv2.png",Spotv2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/spotv2/playlist.m3u8
@@ -468,7 +468,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truedreamworks
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",True Spark Play
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truesparkplay.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",Boomerang
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/173_y_eWScN8UFrhVBEbdlOpns4ki9at53z7wT.png",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Kids"tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png",BOOM ANIME
@@ -488,9 +488,6 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueH2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",Discovery
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/aisDiscover.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",Discovery Asia
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/disasia.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",Food Network
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/foodnetwork.m3u8
