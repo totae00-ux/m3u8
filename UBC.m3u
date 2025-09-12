@@ -150,7 +150,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truethaifilm.m
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/filmasia.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie"  tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",True X-Zyte
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truexzyte.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/xzyte.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True Series
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueseries.m3u8
