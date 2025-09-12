@@ -157,28 +157,28 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truewb.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueAXN.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film HD
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truefilm1.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film1.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film HD2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truefilm2.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film2.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truemoviehit.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/moviehit.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thai Film
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truethaifilm.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truefilmasia.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/filmasia.m3u8
 
 #EXTINF:-1 group-title="02-Movie"  tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",True X-Zyte
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truexzyte.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/xzyte.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True Series
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueseries.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueasiamove.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/asiamove.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueccm.m3u8
@@ -188,97 +188,89 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueccm.m3u8
 
 
 
-
-
-
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",Monomax 1-S1
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4681.png",Monomax 2-S1
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax2.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4682.png",Monomax 3-S1
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport03.png",Monomax 3-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax3.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4683.png",Monomax 4-S1
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport04.png",Monomax 4-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4684.png",Monomax 5-S1
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport05.png",Monomax 5-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4685.png",Monomax 6-S1
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport06.png",Monomax 6-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax6.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4686.png",Monomax 7-S1
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png",Monomax 7-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4687.png",Monomax 8-S1
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png",Monomax 8-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
 
-#EXTINF:-1 group-title="03-Monomax" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",Monomax 1-S2
+#EXTINF:-1 group-title="03-Monomax" tvg-logo="https://api-soccer.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",Monomax 1-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
 
-#EXTINF:-1 group-title="03-Monomax" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4681.png",Monomax 2-S2
+#EXTINF:-1 group-title="03-Monomax" tvg-logo="https://api-soccer.thai-play.com/images/tv/cr3PJK6LjqFrAWWyphZSuvv5BjnYyKJsiam2.png",Monomax 2-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax11.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4682.png",Monomax 3-S2
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/u09TcaaBHclPY21DkjnQUs15KnEVvJpsiam3.png",Monomax 3-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax12.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4683.png",Monomax 4-S2
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/KuYqPsrL6rIxvBK6cOxT56K5kj4uAV8siam4.png",Monomax 4-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax13.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4684.png",Monomax 5-S2
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/DfF41JK9gkvbOlfl6ZAbXDqq6hUmGT2siam5.png",Monomax 5-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax14.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4685.png",Monomax 6-S2
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/siam6.png",Monomax 6-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax15.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4686.png",Monomax 7-S2
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/siam7.png",Monomax 7-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax16.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4687.png",Monomax 8-S2
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/siam8.png",Monomax 8-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax17.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4680.png",Monomax 1-S3
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1-S3
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-1.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4681.png",Monomax 2-S3
+#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2-S3
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-2.m3u8
 
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4682.png",Monomax 3-S3
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-3.m3u8
-
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4683.png",Monomax 4-S3
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-4.m3u8
-
-#EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4684.png",Monomax 5-S3
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-5.m3u8
-
-#EXTINF:-1 group-title="03-Monomax" tvg-logo="https://dookeela2.live/uploads/1753517049.png",Monomax 1_Dookeela
+#EXTINF:-1 tvg-id="" group-title="03-Monomax" tvg-logo="https://www.i-pic.info/i/YI6y1129004.png",Monomax 1_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax1/playlist.m3u8
 
-#EXTINF:-1 group-title="03-Monomax" tvg-logo="https://dookeela.live/uploads/1753873776.png",Monomax 2_Dookeela
+#EXTINF:-1 tvg-id="" group-title="03-Monomax" tvg-logo="https://www.i-pic.info/i/HkWY1129005.png",Monomax 2_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-2/playlist.m3u8
 
-#EXTINF:-1 group-title="03-Monomax" tvg-logo="https://dookeela.live/uploads/1753873776.png",Monomax 3_Dookeela
+#EXTINF:-1 tvg-id="" group-title="03-Monomax" tvg-logo="https://www.i-pic.info/i/l0do1129006.png",Monomax 3_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
 https://cdn2.aws-live-streaming.com/lsmscore/monomax-3/chunks.m3u8
 
-#EXTINF:-1 group-title="03-Monomax" tvg-logo="https://dookeela.live/uploads/1753873817.png",Monomax 4_Dookeela
+#EXTINF:-1 tvg-id="" group-title="03-Monomax" tvg-logo="https://www.i-pic.info/i/mBf61129008.png",Monomax 4_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-4/playlist.m3u8
 
-#EXTINF:-1 group-title="03-Monomax" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport5.png",Monomax 5_Dookeela
+#EXTINF:-1 tvg-id="" group-title="03-Monomax" tvg-logo="https://www.i-pic.info/i/TnRS1131597.png",Monomax 5_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/4k/monomax-5/chunks.m3u8
+
+
+
+
 
 
 
