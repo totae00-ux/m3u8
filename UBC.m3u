@@ -179,22 +179,32 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax2.m3u8
 
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport03.png",Monomax 3-S1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax3.m3u8
+https://e102.hellotherepadawan.org/v5/1A-eJ7WIhpl6DWozpKNT7A/1757372324/4e185de6b5ff3a36fc1933f1d803d926/3qUH_rfjIUr6E3dYTbY7aA/1757383004/live/dx-origin/th-monomax03_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport04.png",Monomax 4-S1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
+https://e106.hellotherepadawan.org/v5/XRVtadBbJS0pBV__WcffeA/1757372381/2a696693e727af3af94fac5fee03b750/uAWDJuW0MoNTr5GBl4QXEg/1757383061/live/dx-origin/th-monomax04_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport05.png",Monomax 5-S1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
+https://e109.hellotherepadawan.org/v5/nxOLJI4ShL2APOMMfOvfbQ/1757372428/4e185de6b5ff3a36fc1933f1d803d926/RnSXuf8G7pQ35I85LlE5pg/1757383108/live/dx-origin/th-monomax05_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport06.png",Monomax 6-S1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax6.m3u8
+https://e101.hellotherepadawan.org/v5/ZpZ2pjdzdH2x1ZegurnGmw/1757372469/2a696693e727af3af94fac5fee03b750/Fz-Dphqa7zhFHKgn2_svAA/1757383149/live/dx-origin/th-monomax06_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png",Monomax 7-S1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
+https://e103.hellotherepadawan.org/v5/1sx43b9yShS1Ad5EFF3Qwg/1757372508/4e185de6b5ff3a36fc1933f1d803d926/fQ0eg6nJiKXgcSlhdkYjYw/1757383188/live/dx-origin/th-monomax07_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png",Monomax 8-S1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
+https://e110.hellotherepadawan.org/v5/b6Mo6zSb2Y-f7KXEYtfVBw/1757372550/2a696693e727af3af94fac5fee03b750/ouX7BQ6z-oJ0fw86bLNb4g/1757383230/live/dx-origin/th-monomax08_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://img5.pic.in.th/file/secure-sv1/Monomax_Sport09-1bbad4074d10aa457.png",Monomax 9-S1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e103.hellotherepadawan.org/v5/EJGI2-EnXZT1ThRFdjkjqg/1757372672/2a696693e727af3af94fac5fee03b750/eRlLKBeECnvk2imBKgZKUg/1757383352/live/lx-origin/th-monomax09eng_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://img2.pic.in.th/pic/Monomax_Sport010-1.png",Monomax 10-S1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e111.hellotherepadawan.org/v5/LlEpxJd59IC_i6o4oT6Ljw/1757372711/4e185de6b5ff3a36fc1933f1d803d926/Sug9c_iEWuAKivmRcRE66g/1757383391/live/lx-origin/th-monomax10_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://api-soccer.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",Monomax 1-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
