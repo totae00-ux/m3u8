@@ -192,10 +192,14 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax2.m3u8
 
 #EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport03.png",Monomax 3-S1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e102.hellotherepadawan.org/v5/1A-eJ7WIhpl6DWozpKNT7A/1757372324/4e185de6b5ff3a36fc1933f1d803d926/3qUH_rfjIUr6E3dYTbY7aA/1757383004/live/dx-origin/th-monomax03_720/chunks.m3u8
 
 #EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport04.png",Monomax 4-S1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/nklist.m3u8
+https://e106.hellotherepadawan.org/v5/XRVtadBbJS0pBV__WcffeA/1757372381/2a696693e727af3af94fac5fee03b750/uAWDJuW0MoNTr5GBl4QXEg/1757383061/live/dx-origin/th-monomax04_720/chunks.m3u8
 
 #EXTINF:-1 group-title="03-Monomax"  tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport05.png",Monomax 5-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
