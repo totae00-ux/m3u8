@@ -159,7 +159,9 @@ https://e108.hellotherepadawan.org/v5/EE0OSVS0xtdPTLDJ0VhbNA/1757871579/f2a3c41a
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueseries.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/asiamove.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e102.hellotherepadawan.org/v5/1OoySlxzHB9eNfTw-PLNkg/1757871775/f2a3c41af9bc02954abfd524c9741a55/y8TTKzixpSBN36mKeY0a2A/1757882455/live/vx-origin/hd-asianmore_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueccm.m3u8
