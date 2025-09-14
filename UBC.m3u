@@ -473,7 +473,9 @@ https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/cn.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png",Dream Works 
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truedreamworks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://la4.hellotherepadawan.org:9311/v5/OWTdehmilEhwolBphnDwXg/1757871874/f2a3c41af9bc02954abfd524c9741a55/WauuKqPLCCht1cbsKrZDag/1757882554/live/vx-origin/hd-dreamworks_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",True Spark Play
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truesparkplay.m3u8
