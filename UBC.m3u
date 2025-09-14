@@ -501,7 +501,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueH2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",Discovery
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/aisDiscover.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",Food Network
+#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://api.coollikeice.org/images/png/hd-food.png",Food Network
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/foodnetwork.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
