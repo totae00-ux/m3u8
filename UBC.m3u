@@ -138,7 +138,9 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film1.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/moviehit.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e110.hellotherepadawan.org/v5/f_v1Lai7M8JrC5URdWdbtw/1757871470/f2a3c41af9bc02954abfd524c9741a55/Z4z8vFO4LDK2xbZEWxS8tQ/1757882150/live/vx-origin/sd-moviehits_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
