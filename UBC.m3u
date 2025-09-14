@@ -151,7 +151,9 @@ https://e101.hellotherepadawan.org/v5/_bwTu8ZANpbtwBaCBdVoag/1757324136/4fc64d47
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/filmasia.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie"  tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",True X-Zyte
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/xzyte.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e108.hellotherepadawan.org/v5/EE0OSVS0xtdPTLDJ0VhbNA/1757871579/f2a3c41af9bc02954abfd524c9741a55/dSc51c6_6CToBH9sdnPj7A/1757882259/live/vx-origin/hd-xzyte_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True Series
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueseries.m3u8
@@ -323,21 +325,6 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein2.m3u8
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,Bein Sport HD 3
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein3.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",True Premier3
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl3.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier4
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl4.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",True Premier5
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl5.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",Spotv
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truespotv1.m3u8
 
@@ -383,16 +370,6 @@ https://cdn1.googlecdn.live/ballsod24hrs/bein2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/bein3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tpf1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tpf2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",True Premier3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
