@@ -66,7 +66,7 @@ https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
-#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://images-storage.thaiware.site/software/2014_05/728/649_14051913092389.jpg",CH8
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://api.coollikeice.org/images/png/hd-ch8.png",CH8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -88,7 +88,7 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT
 igital TV" tvg-logo="https://i.imgur.com/IJh6SHb.png",NBT HD
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
+https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"  tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
 https://server1.streamssl.com/stream/news1_mid.m3u8
