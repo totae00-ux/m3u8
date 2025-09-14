@@ -132,7 +132,9 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truewb.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueAXN.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film HD
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e106.hellotherepadawan.org/v5/J81tHHI59xQgmly025G9-w/1757873331/f2a3c41af9bc02954abfd524c9741a55/cWi80wyaZ91S6MC0jnRaag/1757884011/live/dx-origin/hd-tfilm_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film HD2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film2.m3u8
