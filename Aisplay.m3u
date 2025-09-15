@@ -154,13 +154,17 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truewb.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueAXN.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film HD
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e106.hellotherepadawan.org/v5/J81tHHI59xQgmly025G9-w/1757873331/f2a3c41af9bc02954abfd524c9741a55/cWi80wyaZ91S6MC0jnRaag/1757884011/live/dx-origin/hd-tfilm_720/chunks.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film HD2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film2.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/moviehit.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e110.hellotherepadawan.org/v5/f_v1Lai7M8JrC5URdWdbtw/1757871470/f2a3c41af9bc02954abfd524c9741a55/Z4z8vFO4LDK2xbZEWxS8tQ/1757882150/live/vx-origin/sd-moviehits_720/playlist.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thai Film
 https://e101.hellotherepadawan.org/v5/_bwTu8ZANpbtwBaCBdVoag/1757324136/4fc64d479e5c24454adcea36c3ffa8e7/XrMj3C13S9CXnLBbTMTOXw/1757334816/live/dx-origin/sd-thaifilm_720/playlist.m3u8
@@ -169,17 +173,20 @@ https://e101.hellotherepadawan.org/v5/_bwTu8ZANpbtwBaCBdVoag/1757324136/4fc64d47
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/filmasia.m3u8
 
 #EXTINF:-1 group-title="02-Movie"  tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",True X-Zyte
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/xzyte.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e108.hellotherepadawan.org/v5/EE0OSVS0xtdPTLDJ0VhbNA/1757871579/f2a3c41af9bc02954abfd524c9741a55/dSc51c6_6CToBH9sdnPj7A/1757882259/live/vx-origin/hd-xzyte_720/playlist.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True Series
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueseries.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/asiamove.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e102.hellotherepadawan.org/v5/1OoySlxzHB9eNfTw-PLNkg/1757871775/f2a3c41af9bc02954abfd524c9741a55/y8TTKzixpSBN36mKeY0a2A/1757882455/live/vx-origin/hd-asianmore_720/playlist.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueccm.m3u8
-
 
 
 
@@ -289,7 +296,7 @@ https://cdn1.googlecdn.live/ballsod24hrs/monomax-2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
-https://cdn1.googlecdn.live/4k/monomax-3/chunks.m3u8
+https://cdn2.aws-live-streaming.com/lsmscore/monomax-3/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="03-Monomax" tvg-logo="https://www.i-pic.info/i/mBf61129008.png",Monomax 4_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -332,20 +339,20 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein2.m3u8
 #EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" ,Bein Sport HD 3
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein3.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png",True Premier1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png",True Premier2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl2.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",True Premier3
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/tpf3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier4
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl4.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/tpf4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",True Premier5
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl5.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/tpf5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",Spotv
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truespotv1.m3u8
@@ -395,33 +402,7 @@ https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 #EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8
 
-#EXTINF:-1 group-title="05-BYD Thai League" tvg-logo="http://103.114.203.129:8080/images/6146583652129c49dad32c14750245fa.png",Play Sports Football 9
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL009/HLS/TL009.m3u8
 
-#EXTINF:-1 group-title="05-BYD Thai League" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_10.png",Ball Thai 10
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL010/HLS/TL010.m3u8
-
-#EXTINF:-1 group-title="05-BYD Thai League" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_11.png",Ball Thai 11
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL011/HLS/TL011.m3u8
-
-#EXTINF:-1 group-title="05-BYD Thai League" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_12.png",Ball Thai 12
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL012/HLS/TL012.m3u8
-
-#EXTINF:-1 group-title="05-BYD Thai League" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_13.png",Ball Thai 13
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL013/HLS/TL013.m3u8
-
-#EXTINF:-1 group-title="05-BYD Thai League" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_14.png",Ball Thai 14
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL014/HLS/TL014.m3u8
-
-#EXTINF:-1 group-title="05-BYD Thai League" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_15.png",Ball Thai 15
-#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com/
-https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL015/HLS/TL015.m3u8
 
 
 
@@ -452,7 +433,9 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 #EXTINF:-1 group-title="06-Kids" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png",Dream Works 
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truedreamworks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://la4.hellotherepadawan.org:9311/v5/OWTdehmilEhwolBphnDwXg/1757871874/f2a3c41af9bc02954abfd524c9741a55/WauuKqPLCCht1cbsKrZDag/1757882554/live/vx-origin/hd-dreamworks_720/playlist.m3u8
 
 #EXTINF:-1 group-title="06-Kids" tvg-logo="https://images.livebox.co/images/tv/png/sd-sparkplay.png",True Spark Play
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truesparkplay.m3u8
@@ -479,7 +462,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/aisDiscover.m3
 #EXTINF:-1 group-title="07-Documentry" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png",History
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueH2.m3u8
 
-#EXTINF:-1 group-title="07-Documentry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",Food Network
+#EXTINF:-1 group-title="07-Documentry" tvg-logo="https://api.coollikeice.org/images/png/hd-food.png",Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
@@ -491,10 +474,12 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueexplorelif
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueexploresci.m3u8
 
 #EXTINF:-1 group-title="07-Documentry" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",True Explore Wild
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueexplorewild.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e108.hellotherepadawan.org/v5/uLqSHjy_IxAT2_TuGOALrw/1757872455/f2a3c41af9bc02954abfd524c9741a55/rCYvfD0Bz1rt_-yDKyaIyg/1757883135/live/vx-origin/sd-expwild_720/playlist.m3u8
 
-#EXTINF:-1 group-title="07-Documentry" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",Animal Planet
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueANIMALPLANET.m3u8
+
+
 
 
 
