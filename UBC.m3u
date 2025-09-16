@@ -524,20 +524,25 @@ https://e108.hellotherepadawan.org/v5/uLqSHjy_IxAT2_TuGOALrw/1757872455/f2a3c41a
 
 
 #EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/RziUDnIsuVooOkZ7IdtFPb4ro94yY4iais1.png",Ais1
-#EXTVLCOPT:http-referrer=https://doolive4k.tv
-https://dolive.thaim3u.com/doolive4k-tv/football-play-1/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/dklsport1/playlist.m3u8
+
 
 #EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/4uJiK3DhZb82mr6lq8Cl4dv3oKiiZCKais2.png",Ais2
-#EXTVLCOPT:http-referrer=https://doolive4k.tv
-https://dolive.thaim3u.com/doolive4k-tv/football-play-2/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/dklsport12/playlist.m3u88
 
 #EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",Ais3
-#EXTVLCOPT:http-referrer=https://doolive4k.tv
-https://2l0neaii.ghoststhemovie.co.uk/doolive4k-tv/football-play-3/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/dklsport3/playlist.m3u8
 
 #EXTINF:-1  tvg-id="" group-title="Live Sport"  tvg-logo="https://api-soccer.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",Ais4
-#EXTVLCOPT:http-referrer=https://doolive4k.tv
-https://dolive.thaim3u.com/doolive4k-tv/football-play-4/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/dklsport4/playlist.m3u8
 
 
 
