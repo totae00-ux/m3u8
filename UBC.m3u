@@ -280,13 +280,12 @@ https://cdn1.googlecdn.live/ballsod24hrs/monomax-2/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.i-pic.info/i/l0do1129006.png",Monomax 3_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://99dooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
-https://cdn1.googlecdn.live/ballsod24hrs/monomax-3/playlist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.i-pic.info/i/mBf61129008.png",Monomax 4_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/monomax-4/playlist.m3u8
+https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.i-pic.info/i/TnRS1131597.png",Monomax 5_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
