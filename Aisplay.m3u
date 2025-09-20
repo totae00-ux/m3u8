@@ -340,14 +340,14 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein2.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",True Premier3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tpf3/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org/
+https://e101.hellotherepadawan.org/v5/pF4bNyUyfiGHfqI530JBzA/1758382715/d6ad07a1e42d14f8191a75f14f430b24/WzZFq7cSGm1mwrVexlcRMw/1758393395/live/lx-origin/epl-3_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tpf4/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livesod365.org
+https://e112.hellotherepadawan.org/v5/FUFlkefx-XSYOSDXTkTtBA/1758382909/0a7f215d8c3d0b8251f179c08e4f49a4/rRf6sMtJmLfBKX3PvZny7g/1758393589/live/lx-origin/epl-4_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",True Premier5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
