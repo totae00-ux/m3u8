@@ -282,9 +282,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein3.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.org
-https://e107.hellotherepadawan.org/v5/d7zZp21Py1SIpefIVafX1w/1758465482/aba7b524074da502f2851666ac11bbd3/iDzS4K-O7QN8GarDndkWGA/1758476162/live/lx-origin/epl-4_720/playlist.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl4.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://api-soccer.thai-play.com/images/tv/71FfEfS1Zp7fLJ4TW4luDauTLQSlKZxspotv1.png",Spotv
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truespotv1.m3u8
@@ -474,8 +472,8 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueexploresci
 #EXTVLCOPT:http-referrer=https://livesod365.org/
 https://e108.hellotherepadawan.org/v5/uLqSHjy_IxAT2_TuGOALrw/1757872455/f2a3c41af9bc02954abfd524c9741a55/rCYvfD0Bz1rt_-yDKyaIyg/1757883135/live/vx-origin/sd-expwild_720/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://dookeela2.live/uploads/1741273735.png",Rush
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/rush.m3u8
 
 
 
