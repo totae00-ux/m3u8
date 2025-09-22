@@ -279,9 +279,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein2.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",True Premier3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.org/
-https://s2x.hellotherepadawan.org:9303/v5/5_8YuQnCvSiGu5BbNCzdRA/1758465424/e1f4a09b9eac5821909e18b24d0b4966/_x99E9xwU9imTazJIvWLeQ/1758476104/live/lx-origin/epl-3_720/playlist.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
