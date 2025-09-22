@@ -468,12 +468,16 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueexplorelif
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueexploresci.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",True Explore Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livesod365.org/
-https://e108.hellotherepadawan.org/v5/uLqSHjy_IxAT2_TuGOALrw/1757872455/f2a3c41af9bc02954abfd524c9741a55/rCYvfD0Bz1rt_-yDKyaIyg/1757883135/live/vx-origin/sd-expwild_720/playlist.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueANIMALPLANET.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://dookeela2.live/uploads/1741273735.png",Rush
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/rush.m3u8
+
+
+
+
+
+
 
 
 
