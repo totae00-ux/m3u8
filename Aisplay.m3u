@@ -312,9 +312,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/bein3.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/epl3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png",True Premier4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tpf4/playlist.m3u8
+https://verb169.com/stream/4/index.m3u8?token=mvFWafOIir5JDlQN
 
 #EXTINF:-1 tvg-id="" group-title="04-Truesport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png",True Premier5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
