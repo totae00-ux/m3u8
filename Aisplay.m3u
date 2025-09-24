@@ -169,7 +169,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film2.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/moviehit.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thai Film
-https://e109.hellotherepadawan.org/v5/PWJe9oDBoGDBGQ-SbdXP0A/1758706033/abc1e010d30b6e25ca11bf6bfd161b09/JMEEQdidrqXaHZ1prTHiSg/1758716713/live/dx-origin/sd-thaifilm_720/playlist.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truethaifilm.m3u8
 
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/filmasia.m3u8
