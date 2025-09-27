@@ -171,8 +171,10 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueccm.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://api.arsenalfan.online/images/png/th-monomax02.png",Monomax 2_livesod365
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://e108.ais-ice.live/v5/NGoOqveOvxenEy4Nw_3hMg/1758981767/fd50c099582d6cf2a037097b04fe6601/IlpIOcIU8Ia2xtLjoVMuIQ/1758992447/live/dx-origin/th-monomax02_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.i-pic.info/i/YI6y1129004.png",Monomax 1_Dookeela
