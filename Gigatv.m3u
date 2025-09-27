@@ -189,7 +189,9 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueccm.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://api.arsenalfan.online/images/png/th-monomax02.png",Monomax 2_livesod365
+https://e107.ais-streaming.live:443/v5/o6eWUd8ruAu-QOGMxg_3ow/1758983443/cb1ba51c968ddc2c2fe34f3ce7ca0b5c/w1GjlybYVxQNIWBu0nBR4w/1758994123/live/dx-origin/th-monomax02_720/playlist.m3u8
+|Referer=https://livesod365.org/
 
 #EXTINF:-1 group-title="03-Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
