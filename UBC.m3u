@@ -171,49 +171,52 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueccm.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://api.arsenalfan.online/images/png/th-monomax02.png",Monomax 2_livesod365
-https://e107.ais-streaming.live:443/v5/o6eWUd8ruAu-QOGMxg_3ow/1758983443/cb1ba51c968ddc2c2fe34f3ce7ca0b5c/w1GjlybYVxQNIWBu0nBR4w/1758994123/live/dx-origin/th-monomax02_720/playlist.m3u8
-|Referer=https://livesod365.org/
 
-#EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.i-pic.info/i/YI6y1129004.png",Monomax 1_Dookeela
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.i-pic.info/i/HkWY1129005.png",Monomax 2_Dookeela
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.i-pic.info/i/l0do1129006.png",Monomax 3_Dookeela
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport03.png",Monomax 3_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.i-pic.info/i/mBf61129008.png",Monomax 4_Dookeela
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport04.png",Monomax 4_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.i-pic.info/i/TnRS1131597.png",Monomax 5_Dookeela
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport05.png",Monomax 5_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport06.png",Monomax 6_Dookeela
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport06.png",Monomax 6_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport06.png",Monomax 7_Dookeela
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png",Monomax 7_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Monomax Sports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png",Monomax 8_Dookeela
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png",Monomax 8_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-8/playlist.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
@@ -238,9 +241,6 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
 
 #EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png",Monomax 8-S1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
-
-#EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport09.png",Monomax 9-S1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
 
 #EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://api-soccer.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",Monomax 1-S2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
@@ -283,7 +283,35 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-5.m3
 
 
 
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max1.m3u8
 
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max2.m3u8
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport03.png",Monomax 3
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max3.m3u8
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport04.png",Monomax 4
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max4.m3u8
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport05.png",Monomax 5
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max5.m3u8
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport06.png",Monomax 6
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max6.m3u8
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png",Monomax 7
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max7.m3u8
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png",Monomax 8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max8.m3u8
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport09.png",Monomax 9
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max9.m3u8
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport10.png",Monomax 10
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max10.m3u8
 
 
 
@@ -534,16 +562,3 @@ https://cdn1.googlecdn.live/ballsod24hrs/dklsport3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/dklsport4/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
