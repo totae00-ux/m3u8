@@ -284,6 +284,9 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-5.m3
 
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1
+https://e109.ais-streaming.live/v5/qp2Ye_U3wtMZEg5lm8gXcw/1759075463/f9a3b66e367bd228b4b6f9ccc98ef079/xZmbwfG_iqvI5aGGRHdj3A/1759086143/live/dx-origin/th-monomax02_720/playlist.m3u8|Referer=https://embed.theresmoremoney.org/
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max1.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2
