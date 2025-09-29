@@ -315,7 +315,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max9.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport10.png",Monomax 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.livezod.com/ch.php
+#EXTVLCOPT:http-referrer=https://www.livezod.com/ch.php
 https://sd3459dcvsd3423zx.globallivestreaming.xyz/ball67/monomax1/th-sport/monomax1/chunks.m3u8
 
 
