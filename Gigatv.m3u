@@ -165,7 +165,8 @@ https://live2.inwstream.com/transcoder_F1/truexzyte_inwiptv.stream/chunks.m3u8
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 https://live2.inwstream.com/transcoder_F1/trueasianmore_inwiptv.stream/chunks.m3u8
 
-
+#EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True Series
+https://live2.inwstream.com/transcoder_F1/trueseries_inwiptv.stream/chunks.m3u8
 
 
 
