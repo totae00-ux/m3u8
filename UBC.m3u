@@ -1,4 +1,4 @@
-9#EXTM3U 
+#EXTM3U 
 
 
 
@@ -103,8 +103,11 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warner Tv
 https://live2.inwstream.com/transcoder_F1/truewarner_inwiptv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film1.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film2.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
 https://live2.inwstream.com/transcoder_F1/truemoviehits_inwiptv.stream/chunks.m3u8
