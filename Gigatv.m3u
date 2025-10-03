@@ -147,6 +147,12 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
+#EXTINF:-1 group-title="02-Movie" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",Rock Action
+https://live3.inwstream.com/transcoder_F1/rockaction_inwiptv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="02-Movie" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp",Rock Ent
+https://live3.inwstream.com/transcoder_F1/rockentertainment_inwiptv.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warner Tv
 https://live2.inwstream.com/transcoder_F1/warnertv_inwiptv.stream/chunks.m3u8
 
