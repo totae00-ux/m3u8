@@ -228,9 +228,7 @@ https://live2.inwstream.com/transcoder_F1/truesports2_inwiptv.stream/chunks.m3u8
 https://live2.inwstream.com/transcoder_F1/truesports3_inwiptv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="04-TrueSport"  tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
+https://live2.inwstream.com/transcoder_F1/truesports5_inwiptv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="04-TrueSport"  tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp",True Sport 7
 https://live2.inwstream.com/transcoder_F1/truesports7_inwiptv.stream/chunks.m3u8
