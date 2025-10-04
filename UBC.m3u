@@ -160,29 +160,28 @@ https://live1.inwstream.com/transcoder_F1/aismonomaxsports7_inwiptv.stream/chunk
 https://live1.inwstream.com/transcoder_F1/aismonomaxsports8_inwiptv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api-soccer.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",Monomax 1
-http://bestcommt2.github.io/m3u8/monomax1.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api-soccer.thai-play.com/images/tv/cr3PJK6LjqFrAWWyphZSuvv5BjnYyKJsiam2.png",Monomax 2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-2.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax2.m3u8
 
 #EXTINF:-1 group-title="Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/u09TcaaBHclPY21DkjnQUs15KnEVvJpsiam3.png",Monomax 3
-http://bestcommt2.github.io/m3u8/monomax3.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax3.m3u8
 
 #EXTINF:-1 group-title="Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/KuYqPsrL6rIxvBK6cOxT56K5kj4uAV8siam4.png",Monomax 4
-http://bestcommt2.github.io/m3u8/monomax4.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
 
 #EXTINF:-1 group-title="Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/DfF41JK9gkvbOlfl6ZAbXDqq6hUmGT2siam5.png",Monomax 5
-http://bestcommt2.github.io/m3u8/monomax5.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
 
 #EXTINF:-1 group-title="Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/siam6.png",Monomax 6
-http://bestcommt2.github.io/m3u8/monomax6.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax6.m3u8
 
 #EXTINF:-1 group-title="Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/siam7.png",Monomax 7
-http://bestcommt2.github.io/m3u8/monomax7.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
 
 #EXTINF:-1 group-title="Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/siam8.png",Monomax 8
-http://bestcommt2.github.io/m3u8/monomax8.m3u8
-
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
 
 
 
