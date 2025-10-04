@@ -163,7 +163,7 @@ https://live1.inwstream.com/transcoder_F1/aismonomaxsports8_inwiptv.stream/chunk
 http://bestcommt2.github.io/m3u8/monomax1.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api-soccer.thai-play.com/images/tv/cr3PJK6LjqFrAWWyphZSuvv5BjnYyKJsiam2.png",Monomax 2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max2.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-2.m3u8
 
 #EXTINF:-1 group-title="Monomax"  tvg-logo="https://api-soccer.thai-play.com/images/tv/u09TcaaBHclPY21DkjnQUs15KnEVvJpsiam3.png",Monomax 3
 http://bestcommt2.github.io/m3u8/monomax3.m3u8
