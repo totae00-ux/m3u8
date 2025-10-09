@@ -113,7 +113,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/film2.m3u8
 https://live2.inwstream.com/transcoder_F1/truemoviehits_inwiptv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thai Film
-https://live2.inwstream.com/transcoder_F1/truethaifilm_inwiptv.stream/chunks.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truethaifilm.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
 https://live2.inwstream.com/transcoder_F1/truefilmasia_inwiptv.stream/chunks.m3u8
