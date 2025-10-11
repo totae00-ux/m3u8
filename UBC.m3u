@@ -229,6 +229,19 @@ https://cdn1.googlecdn.live/ballsod24hrs/monomax-8/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://api-soccer.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",Monomax 1
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://api-soccer.thai-play.com/images/tv/cr3PJK6LjqFrAWWyphZSuvv5BjnYyKJsiam2.png",Monomax 2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax11.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://api-soccer.thai-play.com/images/tv/u09TcaaBHclPY21DkjnQUs15KnEVvJpsiam3.png",Monomax 3
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax12.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://api-soccer.thai-play.com/images/tv/KuYqPsrL6rIxvBK6cOxT56K5kj4uAV8siam4.png",Monomax 4
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax13.m3u8
+
+
 
 
 
