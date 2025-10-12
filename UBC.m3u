@@ -133,29 +133,6 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueseries.m3u
 
 
 
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1
-https://live1.inwstream.com/transcoder_F1/aismonomaxsports1_inwiptv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2
-https://live1.inwstream.com/transcoder_F1/aismonomaxsports2_inwiptv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport03.png",Monomax 3
-https://live1.inwstream.com/transcoder_F1/aismonomaxsports3_inwiptv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport04.png",Monomax 4
-https://live1.inwstream.com/transcoder_F1/aismonomaxsports4_inwiptv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport05.png",Monomax 5
-https://live1.inwstream.com/transcoder_F1/aismonomaxsports5_inwiptv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport06.png",Monomax 6
-https://live1.inwstream.com/transcoder_F1/aismonomaxsports6_inwiptv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png",Monomax 7
-https://live1.inwstream.com/transcoder_F1/aismonomaxsports7_inwiptv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png",Monomax 8
-https://live1.inwstream.com/transcoder_F1/aismonomaxsports8_inwiptv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Monomax" tvg-logo="https://api-soccer.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",Monomax 1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
@@ -433,7 +410,7 @@ https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/
 
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE//channelicon/0171.png",Cartoon Network
-https://live1.inwstream.com/transcoder_F1/cartoonnetwork_inwiptv.stream/chunks.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/cn.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/173_y_eWScN8UFrhVBEbdlOpns4ki9at53z7wT.png",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
@@ -451,10 +428,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",Discovery Asia
-https://live3.inwstream.com/transcoder_F1/discoveryasia_inwiptv.stream/chunks.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/DiscoverASIA.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",Discovery
-https://live1.inwstream.com/transcoder_F1/discovery_inwiptv.stream/chunks.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/aisDiscover.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://dookeela2.live/uploads/1741273735.png",Rush
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/rush.m3u8
