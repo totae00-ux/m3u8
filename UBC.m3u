@@ -116,7 +116,7 @@ https://live2.inwstream.com/transcoder_F1/truemoviehits_inwiptv.stream/chunks.m3
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truethaifilm.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
-https://live2.inwstream.com/transcoder_F1/truefilmasia_inwiptv.stream/chunks.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/filmasia.m3u8
 
 #EXTINF:-1 group-title="Movie"  tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",True X-Zyte
 https://live2.inwstream.com/transcoder_F1/truexzyte_inwiptv.stream/chunks.m3u8
