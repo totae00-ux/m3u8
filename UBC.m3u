@@ -208,7 +208,7 @@ https://cdn1.googlecdn.live/ballsod24hrs/monomax-8/playlist.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://api-soccer.thai-play.com/images/tv/cr3PJK6LjqFrAWWyphZSuvv5BjnYyKJsiam2.png",Monomax 2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-2.m3u8
+http://tv.greatstar.me:80/play/live.php?mac=A0:BB:3E:4D:2B:D3&stream=1660492&extension=m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://api-soccer.thai-play.com/images/tv/u09TcaaBHclPY21DkjnQUs15KnEVvJpsiam3.png",Monomax 3
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-3.m3u8
