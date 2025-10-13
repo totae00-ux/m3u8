@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truethaifilm.m
 http://tv.greatstar.me:80/play/live.php?mac=A0:BB:3E:4D:2B:D3&stream=387394&extension=m3u8
 
 #EXTINF:-1 group-title="Movie"  tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",True X-Zyte
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/xzyte.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/filmasia.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueasiamove.m3u8
