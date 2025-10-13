@@ -54,10 +54,12 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F16%2F396384be-35dc-4d11-bf04-06c9546ec7bc.png&w=100&h=75",ONE31 HD
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_320.png",GMM 25
-https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV"  tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F35a35017-8473-4953-8474-5c58d805b74a.png&w=100&h=75",Mono 29
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -118,7 +120,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/truethaifilm.m
 http://tv.greatstar.me:80/play/live.php?mac=A0:BB:3E:4D:2B:D3&stream=387394&extension=m3u8
 
 #EXTINF:-1 group-title="Movie"  tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",True X-Zyte
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/filmasia.m3u8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/xzyte.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/trueasiamove.m3u8
@@ -159,6 +161,19 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
 
 
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://api-soccer.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",Monomax 1
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-1.m3u8
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://api-soccer.thai-play.com/images/tv/cr3PJK6LjqFrAWWyphZSuvv5BjnYyKJsiam2.png",Monomax 2
+http://tv.greatstar.me:80/play/live.php?mac=A0:BB:3E:4D:2B:D3&stream=1660492&extension=m3u8
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://api-soccer.thai-play.com/images/tv/u09TcaaBHclPY21DkjnQUs15KnEVvJpsiam3.png",Monomax 3
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-3.m3u8
+
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://api-soccer.thai-play.com/images/tv/KuYqPsrL6rIxvBK6cOxT56K5kj4uAV8siam4.png",Monomax 4
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-4.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1_Dookeela
@@ -166,55 +181,137 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax1/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1_footballsod
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://footballsod.live
+https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1_88-hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_1HD/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2_footballsod
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://footballsod.live
+https://cdn1.googlecdn.live/4k/monomax2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2_88-hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_2HD/chunklist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport03.png",Monomax 3_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport03.png",Monomax 3_footballsod
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://footballsod.live
+https://cdn1.googlecdn.live/4k/monomax3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport03.png",Monomax 3_88-hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_3HD/chunklist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport04.png",Monomax 4_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport04.png",Monomax 4_footballsod
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://footballsod.live
+https://cdn1.googlecdn.live/4k/monomax4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport04.png",Monomax 4_88-hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_4HD/chunklist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport05.png",Monomax 5_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-5/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport05.png",Monomax 5_footballsod
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://footballsod.live
+https://cdn1.googlecdn.live/4k/monomax5/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport05.png",Monomax 5_88-hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_5HD/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport06.png",Monomax 6_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport06.png",Monomax 6footballsod
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://footballsod.live
+https://cdn1.googlecdn.live/4k/monomax6/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport06.png",Monomax 6_88-hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_6HD/chunklist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png",Monomax 7_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-7/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png",Monomax 7_footballsod
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://footballsod.live
+https://cdn1.googlecdn.live/4k/monomax7/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport07.png",Monomax 7_88-hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_7HD/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png",Monomax 8_Dookeela
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-8/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png",Monomax 8_footballsod
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://footballsod.live
+https://cdn1.googlecdn.live/4k/monomax8/chunks.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://api-soccer.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",Monomax 1
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-1.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://api-soccer.thai-play.com/images/tv/cr3PJK6LjqFrAWWyphZSuvv5BjnYyKJsiam2.png",Monomax 2
-http://tv.greatstar.me:80/play/live.php?mac=A0:BB:3E:4D:2B:D3&stream=1660492&extension=m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://api-soccer.thai-play.com/images/tv/u09TcaaBHclPY21DkjnQUs15KnEVvJpsiam3.png",Monomax 3
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-3.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://api-soccer.thai-play.com/images/tv/KuYqPsrL6rIxvBK6cOxT56K5kj4uAV8siam4.png",Monomax 4
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomaxs3-4.m3u8
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport08.png",Monomax 8__88-hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_8HD/chunklist.m3u8
 
 
 
@@ -265,7 +362,6 @@ https://cdn1.googlecdn.live/ballsod24hrs/bein2/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
-https://cdn1.googlecdn.live/ballsod24hrs/bein3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png",True Premier3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -296,6 +392,36 @@ https://cdn1.googlecdn.live/ballsod24hrs/spotv2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/trueidsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="True Sports"  tvg-logo="https://dookeela2.live/uploads/1723651252.png",True Ball Thai 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueballthai8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="True Sports"  tvg-logo="https://dookeela2.live/uploads/1723660123.png",True Ball Thai 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueballthai9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="True Sports"  tvg-logo="https://dookeela2.live/uploads/1723666843.png",True Ball Thai 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/trueballthai10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://dookeela2.live/uploads/1754569758.png",SHOPEE CUP 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/shopee-cup-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="True Sports" tvg-logo="https://dookeela2.live/uploads/1755204027.png",SHOPEE CUP 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/shopee-cup-2/playlist.m3u8
+
+##EXTINF:-1 tvg-id="" group-title="True Sports"tvg-logo="https://dookeela2.live/uploads/1755628918.png",SHOPEE CUP 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/shopee-cup-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="True Sports"  tvg-logo="https://img2.pic.in.th/pic/mutvdoo.png",Mutv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -419,3 +545,58 @@ https://cdn1.googlecdn.live/ballsod24hrs/dklsport3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/dklsport4/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",siam-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/siam-1/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/cr3PJK6LjqFrAWWyphZSuvv5BjnYyKJsiam2.png",siam-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/siam-2/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/u09TcaaBHclPY21DkjnQUs15KnEVvJpsiam3.png",siam-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/siam-3/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/KuYqPsrL6rIxvBK6cOxT56K5kj4uAV8siam4.png",siam-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/siam-4/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/DfF41JK9gkvbOlfl6ZAbXDqq6hUmGT2siam5.png",siam-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/siam-5/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/siam6.png",siam-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/siam-6/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/siam7.png",siam-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/siam-7/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/siam8.png",siam-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/siam-8/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/siam9.png",siam-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/siam-9/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/siam10.png",siam-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/siam-10/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" group-title="Live Sport" tvg-logo="https://api-soccer.thai-play.com/images/tv/siam11.png",siam-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/siam-11/playlist.m3u8
