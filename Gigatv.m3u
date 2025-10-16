@@ -373,8 +373,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="06-Kids"tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png",Boom Anime
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
-
-
+#EXTINF:-1 group-title="06-Kids" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png",Dreamworks 
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://la5.youllneverwalkalone.online:9310/v5/SJ610_3LnXfj-YldVZc0KQ/1760605784/34cf15fa0dba7547f4fbb7a0e37f4fa2/qLhWd8Ws1_5LKsFTwqyw8g/1760616464/live/vx-origin/hd-dreamworks_720/playlist.m3u8
 
 
 
