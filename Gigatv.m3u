@@ -402,18 +402,17 @@ https://la5.youllneverwalkalone.online:9310/v5/TYabD4h9sJZkXdzeWdRvKA/1760501724
 #KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",True Explo Wild
+#EXTINF:-1 group-title="07-Documentry" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",True Explo Wild
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://la4.youllneverwalkalone.online:9310/v5/v4tOjNiAmzOVT423cOdeog/1760682213/34cf15fa0dba7547f4fbb7a0e37f4fa2/enmkzQlXYeSwea3Qnab_rA/1760692893/live/vx-origin/sd-expwild_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explo Life
+#EXTINF:-1 group-title="07-Documentry" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explo Life
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://la5.youllneverwalkalone.online:9310/v5/F0pXrzZypWHO18dR7SAzyQ/1760682090/34cf15fa0dba7547f4fbb7a0e37f4fa2/-i5zHEzNLVMnyLOb4HCSLg/1760692770/live/vx-origin/sd-explife_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",True Explo Sci
+#EXTINF:-1 group-title="07-Documentry" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",True Explo Sci
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://la4.youllneverwalkalone.online:9310/v5/8vFtgyM6O1qp8RfKXySYEg/1760682248/34cf15fa0dba7547f4fbb7a0e37f4fa2/Ig_G4PgOejzp6stTn8prDA/1760692928/live/vx-origin/sd-expsci_720/playlist.m3u8
