@@ -203,8 +203,10 @@ https://la4.youllneverwalkalone.online:9310/v5/XoAljEaiV74QTBoyzmqyFw/1760606292
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 https://la4.youllneverwalkalone.online:9310/v5/SC34zeAAhFIvjLZLCOp9dA/1760606324/34cf15fa0dba7547f4fbb7a0e37f4fa2/wo5sDupNK9uDXFDTqPahcg/1760617004/live/lx-origin/th-monomax11_720/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="Monomax" tvg-logo="https://api.makeitso.online/images/png/th-monomax2.png",Monomax 2
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://e110.youllneverwalkalone.online:443/v5/4p8swLRySQqXUGIdKkGYdA/1760800187/807bf09b867991d5953201e9b7beac37/Wrv2ySB68mu5-JVALGn8Tw/1760810867/live/dx-origin/th-monomax02_720/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1
