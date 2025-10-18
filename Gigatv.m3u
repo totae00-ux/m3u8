@@ -148,6 +148,11 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 #KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 
+#EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
+#EXTVLCOPT:http-referrer=https://embed.makeitso.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://e111.youllneverwalkalone.online:443/v5/2XsTxRgngCDD-SkdlFV5YA/1760803601/28c571983be8a7d1c005ff342284add5/wZqvhDAkCZgfV4g25K_vvg/1760814281/live/vx-origin/sd-moviehits_720/playlist.m3u8
+
 #EXTINF:-1 group-title="02-Movie" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thai Film
 #EXTVLCOPT:http-referrer=https://embed.makeitso.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
