@@ -213,7 +213,8 @@ https://e110.youllneverwalkalone.online:443/v5/4p8swLRySQqXUGIdKkGYdA/1760800187
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max2.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8/raw/refs/heads/main/monomax2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport03.png",Monomax 3
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max3.m3u8
