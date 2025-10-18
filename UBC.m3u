@@ -210,16 +210,16 @@ https://e110.youllneverwalkalone.online:443/v5/4p8swLRySQqXUGIdKkGYdA/1760800187
 
 
 #EXTINF:-1 tvg-id="" group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport01.png",Monomax 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=ts
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max1.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport03.png",Monomax 3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=ts
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max3.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Monomax" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport04.png",Monomax 4
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186579&extension=ts
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/max4.m3u8
 
 
 
