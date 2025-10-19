@@ -318,8 +318,8 @@ https://cdn1.googlecdn.live/ballsod24hrs/monomax-7/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 https://cdn1.googlecdn.live/ballsod24hrs/monomax-8/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" group-title="Monomax Dookeela" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/Monomax_Sport02.png",Monomax 2
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:12:1B:60&stream=1660492&extension=ts
 
 
 
