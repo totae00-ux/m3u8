@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6000000
-http://main.metatvhd.cloud:80/play/A3FrNGASrkp4y5GKtqrPgJYfwRpSOjoATUzC9wopAFw/m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://ringo4532.xyz:80/play/live.php?mac=00:1A:79:D2:27:8C&stream=191752&extension=m3u8
