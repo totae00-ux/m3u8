@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://po.tomgerryservice.com:80/play/live.php?mac=00:1A:79:35:CF:B5&stream=1660491&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:B6:01&stream=813035&extension=m3u8
